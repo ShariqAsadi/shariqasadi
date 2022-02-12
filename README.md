@@ -1,8 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Shariq <img src="images/Hi.gif" height="32" /></h1>
+
+<br />
 
 <!--
-**ShariqAsadi/shariqasadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
