@@ -6,10 +6,8 @@
 
 - 🔭 I’m currently working at an app which reduces employee onboarding and training.
 - 🌱 I’m always learning new things.
-- 💬 Ask me about **React, Typescript**.
-- ⚡ Fun fact: I am a casual gamer
-
-<br />
+- 💬 Ask me about **React, Javascript and Typescript**.
+- ⚡ Fun fact: I'm a casual gamer
 
 ### **📫 Connect with me**
 
@@ -24,8 +22,6 @@
     <img align="center" src="images/gmail.svg" alt="email" height="30px" width="30px" />
   </a>
 </p>
-
-<br />
 
 ### **🔨 Languages and Tools**
 
@@ -91,6 +87,6 @@
 ### **📊 Github Stats**
 
 <p align='left'>
-<img src='https://github-readme-stats-shariqasadi.vercel.app/api/top-langs/?username=shariqasadi&layout=compact&theme=radical&card_width=370' alt="langs-stats"/>
+<img src='https://github-readme-stats-shariqasadi.vercel.app/api/top-langs/?username=shariqasadi&layout=compact&theme=radical' alt="langs-stats"/>
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=shariqasadi&theme=radical' alt="streak-stats" height='165'/>
 </p>
