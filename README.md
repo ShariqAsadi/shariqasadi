@@ -1,18 +1,25 @@
-<h2 align="center">Hi there, I'm Shariq <img src="images/Hi.gif" height="32"></h2>
+<h3 align="center">Hi there, I'm Shariq <img src="images/Hi.gif" height="32"></h2>
 
-<!-- <h3 align='center'> A Frontend developer from <b>Karachi, Pakistan</b></h3> -->
+<p>Welcome to my profile! I'm a Front-end Software Engineer based in <strong>Karachi, Pakistan.</strong> I love to explore new tech stack and shiny new things to build cool stuff.</p>
 
-**Connect with me**
+### **🧐 A bit more about me**
+
+- 🔭 I’m currently working at an app which reduces employee onboarding and training.
+- 🌱 I’m always learning new things.
+- 💬 Ask me about **React, Typescript**.
+- ⚡ Fun fact: I am a casual gamer
+
+<br />
+
+### **📫 Connect with me**
 
 <p align="left">
    <a href="https://twitter.com/ShariqAsadi" target="_blank" style='margin-right:10px' rel="noreferrer">
     <img align="center" src="images/twitter.svg" alt="twitter" height="30px" width="30px" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shariq-asadi/" target="_blank" style='margin-right:10px' rel="noreferrer">
     <img align="center" src="images/linkedin.svg" alt="linkedin" height="30px" width="30px" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:shariq.asadi@gmail.com" target="_blank" rel="noreferrer">
     <img align="center" src="images/gmail.svg" alt="email" height="30px" width="30px" />
   </a>
@@ -20,7 +27,7 @@
 
 <br />
 
-**Languages and Tools**
+### **🔨 Languages and Tools**
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -79,6 +86,11 @@
   </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats-shariqasadi.vercel.app/api/top-langs/?username=shariqasadi&layout=compact)](https://github.com/shariqasadi)
+<br />
 
-[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=shariqasadi&)](https://github.com/shariqasadi)
+### **📊 Github Stats**
+
+<p align='left'>
+<img src='https://github-readme-stats-shariqasadi.vercel.app/api/top-langs/?username=shariqasadi&layout=compact&theme=radical&card_width=370' alt="langs-stats"/>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=shariqasadi&theme=radical' alt="streak-stats" height='165'/>
+</p>
