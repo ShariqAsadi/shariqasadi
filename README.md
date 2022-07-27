@@ -4,7 +4,7 @@
 
 ### **🧐 A bit more about me**
 
-- 🔭 I’m currently working at an app which reduces employee onboarding and training.
+- 🔭 I’m currently working on an app which reduces employee onboarding and training.
 - 🌱 I’m always learning new things.
 - 💬 Ask me about **React, Javascript and Typescript**.
 - ⚡ Fun fact: I'm a casual gamer
