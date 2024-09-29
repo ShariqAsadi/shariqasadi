@@ -1,13 +1,5 @@
-<h3 align="center">Hi there, I'm Shariq <img src="images/Hi.gif" height="32"></h2>
+<h3 align="center">Hi there <img src="images/Hi.gif" height="32"></h2>
 
-<p>Welcome to my profile! I'm a Front-end Software Engineer based in <strong>Karachi, Pakistan.</strong> I love to explore new tech stack and shiny new things to build cool stuff.</p>
-
-### **🧐 A bit more about me**
-
-- 🔭 I’m currently working on an app which reduces employee onboarding and training.
-- 🌱 I’m always learning new things.
-- 💬 Ask me about **React, Javascript and Typescript**.
-- ⚡ Fun fact: I'm a casual gamer
 
 ### **📫 Connect with me**
 
@@ -22,6 +14,8 @@
     <img align="center" src="images/gmail.svg" alt="email" height="30px" width="30px" />
   </a>
 </p>
+
+---
 
 ### **🔨 Languages and Tools**
 
@@ -82,7 +76,7 @@
   </a> 
 </p>
 
-<br />
+---
 
 ### **📊 Github Stats**
 
