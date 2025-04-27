@@ -3,10 +3,10 @@
 ### **📫 Connect with me**
 
 <p align="left">
-   <a href="https://twitter.com/ShariqAsadi" target="_blank" style='margin-right:10px' rel="noreferrer">
+   <a href="https://twitter.com/ShariqAsadi" target="_blank" rel="noreferrer">
     <img align="center" src="images/twitter.svg" alt="twitter" height="30px" width="30px" title="Twitter / X"/>
   </a>
-  <a href="https://www.linkedin.com/in/shariq-asadi/" target="_blank" style='margin-right:10px' rel="noreferrer">
+  <a href="https://www.linkedin.com/in/shariq-asadi/" target="_blank" rel="noreferrer">
     <img align="center" src="images/linkedin.svg" alt="linkedin" height="30px" width="30px" title="LinkedIn"/>
   </a>
   <a href="mailto:shariq.asadi@gmail.com" target="_blank" rel="noreferrer">
