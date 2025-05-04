@@ -162,6 +162,5 @@
 ### **📊 Github Stats**
 
 <p align='left'>
-  <img src='https://github-readme-stats-shariqasadi.vercel.app/api/top-langs/?username=shariqasadi&layout=compact&theme=radical' alt="langs-stats"/>
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=shariqasadi&theme=radical' alt="streak-stats" height='165'/>
 </p>
